@@ -1,0 +1,10 @@
+ROS - Robot Operating System
+AGV - Autonomous Guided Vehicle
+ITU-AGV - AGV robots built in ITU Robotics Laboratory
+IMU - inertial measurement unit
+LIDAR - Light Detection and Ranging
+AHRS - Attitude and Heading Reference System 
+DOF - degree of freedom
+RGB - Red Green Blue
+RGBD - Red Green Blue Depth
+SCI - Serial Communication Interface

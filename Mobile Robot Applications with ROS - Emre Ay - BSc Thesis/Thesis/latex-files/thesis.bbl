@@ -1,0 +1,82 @@
+\begin{thebibliography}{10}
+
+\bibitem{alonzoKelly}
+Alonzo Kelly.
+\newblock {\em Mobile Robotics, Mathematics, Models and Methods}, page~3.
+\newblock Cambridge University Press, 2013.
+
+\bibitem{Martinez-Ros}
+Aaron Martinez and Enrique Fernandez.
+\newblock {\em Learning ROS for Robotics Programming}, chapter~5, pages
+  156--158.
+\newblock Pack Publishing Ltd., 2013.
+
+\bibitem{eposManual}
+Maxon Motor.
+\newblock {\em EPOS 70/10 Online Manual}, 2007.
+
+\bibitem{kinectSpecs}
+{Microsoft Corporation}.
+\newblock Specifications for the kinect.
+\newblock \url{https://msdn.microsoft.com/en-us/library/jj131033.aspx}.
+\newblock Accessed: 2015-05-25.
+
+\bibitem{curiosity}
+{NASA/JPL-Caltech}.
+\newblock Mars rover curiosity, front view.
+\newblock \url{http://www.jpl.nasa.gov/spaceimages/details.php?id=PIA14254},
+  {2011}.
+\newblock Accessed: 2015-03-15.
+
+\bibitem{Quigley09}
+Morgan Quigley, Brian Gerkey, Ken Conley, Josh Faust, Tully Foote, Jeremy
+  Leibs, Eric Berger, Rob Wheeler, and Andrew Ng.
+\newblock Ros: an open-source robot operating system.
+\newblock In {\em International Conference on Robotics and Automation}, 2009.
+\newblock Open-Source Software Workshop.
+
+\bibitem{rosCoreComponents}
+{ROS Website}.
+\newblock Core components.
+\newblock \url{http://www.ros.org/core-components/}.
+\newblock Accessed: 2015-05-25.
+
+\bibitem{rosCatkin}
+{ROS Wiki Website}.
+\newblock Catkin conceptual overview.
+\newblock \url{http://wiki.ros.org/catkin/conceptual_overview}.
+\newblock Accessed: 2015-05-24.
+
+\bibitem{rosRaspbian}
+{ROS Wiki Website}.
+\newblock Installing on raspberry pi/raspbian.
+\newblock \url{http://wiki.ros.org/groovy/Installation/Raspbian}.
+\newblock Accessed: 2015-05-23.
+
+\bibitem{rosFileSystem}
+{ROS Wiki Website}.
+\newblock Navigating the ros filesystem.
+\newblock \url{http://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem}.
+\newblock Accessed: 2015-05-24.
+
+\bibitem{robotPoseEkf}
+{ROS Wiki Website}.
+\newblock Robot pose ekf.
+\newblock \url{http://wiki.ros.org/robot_pose_ekf}.
+\newblock Accessed: 2015-05-22.
+
+\bibitem{sickDatasheet}
+SICK AG.
+\newblock {\em LMS200/211/221/291 Laser Measurement Systems Technical
+  Description}.
+
+\bibitem{ezdspDatasheet}
+Spectrum Digital, Inc.
+\newblock {\em eZdsp\textsuperscript{TM} F28335 Technical Reference}, November
+  2007.
+
+\bibitem{xsensDatasheet}
+Xsens Technologies B.V.
+\newblock {\em MTi Miniature Attitude and Heading Reference System Leaflet}.
+
+\end{thebibliography}
